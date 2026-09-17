@@ -1,0 +1,10 @@
+servers:
+
+  - name: CX43
+    locations: all
+
+  - name: CPX32
+    locations: all
+
+  - name: CPX42
+    locations: all
