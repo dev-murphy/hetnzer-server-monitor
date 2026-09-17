@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app ./app
 
-CMD ["python", "-u", "/app/app/main.py"]
+CMD ["python", "-u", "/app/app/monitor.py"]
