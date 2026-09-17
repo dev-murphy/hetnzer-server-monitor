@@ -3,8 +3,8 @@ servers:
   - name: CX43
     locations: all
 
-  - name: CPX32
+  - name: CX53
     locations: all
 
-  - name: CPX42
+  - name: CPX32
     locations: all
